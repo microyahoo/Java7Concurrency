@@ -1,0 +1,28 @@
+[FINER]Sun Nov 23 11:49:39 CST 2014: Core.main():ENTRY
+[INFO]Sun Nov 23 11:49:39 CST 2014: com.njupt.demo7.Main.main:Launching thread: 0
+[INFO]Sun Nov 23 11:49:39 CST 2014: com.njupt.demo7.Main.main:Thread created: Thread-1
+[INFO]Sun Nov 23 11:49:39 CST 2014: com.njupt.demo7.Main.main:Launching thread: 1
+[FINER]Sun Nov 23 11:49:39 CST 2014: Thread-1.run():ENTRY
+[INFO]Sun Nov 23 11:49:39 CST 2014: com.njupt.demo7.Main.main:Thread created: Thread-2
+[INFO]Sun Nov 23 11:49:39 CST 2014: com.njupt.demo7.Main.main:Launching thread: 2
+[FINER]Sun Nov 23 11:49:39 CST 2014: Thread-2.run():ENTRY
+[INFO]Sun Nov 23 11:49:39 CST 2014: com.njupt.demo7.Main.main:Thread created: Thread-3
+[INFO]Sun Nov 23 11:49:39 CST 2014: com.njupt.demo7.Main.main:Launching thread: 3
+[FINER]Sun Nov 23 11:49:39 CST 2014: Thread-3.run():ENTRY
+[INFO]Sun Nov 23 11:49:39 CST 2014: com.njupt.demo7.Main.main:Thread created: Thread-4
+[INFO]Sun Nov 23 11:49:39 CST 2014: com.njupt.demo7.Main.main:Launching thread: 4
+[FINER]Sun Nov 23 11:49:39 CST 2014: Thread-4.run():ENTRY
+[INFO]Sun Nov 23 11:49:39 CST 2014: com.njupt.demo7.Main.main:Thread created: Thread-5
+[INFO]Sun Nov 23 11:49:39 CST 2014: com.njupt.demo7.Main.main:Ten threads created.Waiting for its finalization.
+[FINER]Sun Nov 23 11:49:39 CST 2014: Thread-5.run():ENTRY
+[FINER]Sun Nov 23 11:49:41 CST 2014: Thread-1.run():RETURN {0}
+[INFO]Sun Nov 23 11:49:41 CST 2014: com.njupt.demo7.Main.main:Thread has finished its execution
+[FINER]Sun Nov 23 11:49:41 CST 2014: Thread-4.run():RETURN {0}
+[FINER]Sun Nov 23 11:49:41 CST 2014: Thread-2.run():RETURN {0}
+[INFO]Sun Nov 23 11:49:41 CST 2014: com.njupt.demo7.Main.main:Thread has finished its execution
+[FINER]Sun Nov 23 11:49:41 CST 2014: Thread-3.run():RETURN {0}
+[INFO]Sun Nov 23 11:49:41 CST 2014: com.njupt.demo7.Main.main:Thread has finished its execution
+[FINER]Sun Nov 23 11:49:41 CST 2014: Thread-5.run():RETURN {0}
+[INFO]Sun Nov 23 11:49:41 CST 2014: com.njupt.demo7.Main.main:Thread has finished its execution
+[INFO]Sun Nov 23 11:49:41 CST 2014: com.njupt.demo7.Main.main:Thread has finished its execution
+[FINER]Sun Nov 23 11:49:41 CST 2014: Core.main():RETURN
